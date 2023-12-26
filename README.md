@@ -1,7 +1,7 @@
 - 
 - 👋 Hi, I’m @munania
-- 👀 I’m interested in Flutter, Java, PHP and UI/UX Design
-- 🌱 I’m currently learning Flutter and Dart
+- 👀 I’m interested in Flutter, Python, Django and UI/UX Design
+- 🌱 I’m looking to collaborate on any django/python projects
 - 💞️ I’m looking to collaborate on any flutter projects
 -
 
