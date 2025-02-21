@@ -1,6 +1,6 @@
 - 
 - 👋 Hi, I’m @munania
-- 👀 I’m interested in Flutter, Python, Django and UI/UX Design
+- 👀 I’m interested in Flutter, Python, Django, UI/UX Design and an IOT Enthuthiast
 - 🌱 I’m looking to collaborate on any django/python projects
 - 💞️ I’m looking to collaborate on any flutter projects
 -
